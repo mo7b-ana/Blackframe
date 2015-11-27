@@ -1,0 +1,1 @@
+This repository contains all Blackframe web page developing. At this momment there is no licence yet to apply but this is a private work.
